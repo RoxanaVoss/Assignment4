@@ -1,8 +1,7 @@
 # Assignment4
 ## BIO593 (Big Data Analysis) Assignment 4 Python
-This assignment will decribe linguistic complexity of eachsequence in a file of sequences. 
-The linguistic complexity of a sequence is defined as the proportion of kmers that are
-observed compared to the total number that are theoretically possible.
+This assignment will describe linguistic complexity of each sequence in a file of sequences. 
+The linguistic complexity of a sequence is defined as the proportion of kmers that are observed compared to the total number that are theoretically possible.
 
 ## Running tests
 Save the textfile on your computer.
