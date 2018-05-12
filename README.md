@@ -4,9 +4,9 @@ This assignment will describe linguistic complexity of each sequence in a file o
 The linguistic complexity of a sequence is defined as the proportion of kmers that are observed compared to the total number that are theoretically possible.
 
 ## Content
-- Python file
+- Python File
 - Python Testfile
-- Fastefile
+- Fastafile
 
 ## Running tests
 Save the file on your computer.
